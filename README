@@ -1,0 +1,9 @@
+This project is written by @_SKSC.
+
+This is a library management system which is written in Delphi with MySQL. In this system, all required information is stored separately in MySQL.
+Different user groups are granted different permissions. This is the system that can meet all need for diminutive library use.
+
+However, this is just a demo that can only run on local machine. If you want to implement this project in real life, you have to write some your own functions to support network access.
+
+
+
